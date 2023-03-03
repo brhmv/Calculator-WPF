@@ -1,0 +1,42 @@
+C:\Users\user\source\repos\Calculator wpf\Calculator wpf\bin\Debug\net6.0-windows\Calculator wpf.exe
+C:\Users\user\source\repos\Calculator wpf\Calculator wpf\bin\Debug\net6.0-windows\Calculator wpf.deps.json
+C:\Users\user\source\repos\Calculator wpf\Calculator wpf\bin\Debug\net6.0-windows\Calculator wpf.runtimeconfig.json
+C:\Users\user\source\repos\Calculator wpf\Calculator wpf\bin\Debug\net6.0-windows\Calculator wpf.dll
+C:\Users\user\source\repos\Calculator wpf\Calculator wpf\bin\Debug\net6.0-windows\Calculator wpf.pdb
+C:\Users\user\source\repos\Calculator wpf\Calculator wpf\obj\Debug\net6.0-windows\Calculator wpf.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Calculator wpf\Calculator wpf\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\user\source\repos\Calculator wpf\Calculator wpf\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\user\source\repos\Calculator wpf\Calculator wpf\obj\Debug\net6.0-windows\Calculator wpf_MarkupCompile.cache
+C:\Users\user\source\repos\Calculator wpf\Calculator wpf\obj\Debug\net6.0-windows\Calculator wpf_MarkupCompile.lref
+C:\Users\user\source\repos\Calculator wpf\Calculator wpf\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\user\source\repos\Calculator wpf\Calculator wpf\obj\Debug\net6.0-windows\Calculator wpf.g.resources
+C:\Users\user\source\repos\Calculator wpf\Calculator wpf\obj\Debug\net6.0-windows\Calculator wpf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Calculator wpf\Calculator wpf\obj\Debug\net6.0-windows\Calculator wpf.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Calculator wpf\Calculator wpf\obj\Debug\net6.0-windows\Calculator wpf.AssemblyInfo.cs
+C:\Users\user\source\repos\Calculator wpf\Calculator wpf\obj\Debug\net6.0-windows\Calculator wpf.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Calculator wpf\Calculator wpf\obj\Debug\net6.0-windows\Calculator wpf.dll
+C:\Users\user\source\repos\Calculator wpf\Calculator wpf\obj\Debug\net6.0-windows\refint\Calculator wpf.dll
+C:\Users\user\source\repos\Calculator wpf\Calculator wpf\obj\Debug\net6.0-windows\Calculator wpf.pdb
+C:\Users\user\source\repos\Calculator wpf\Calculator wpf\obj\Debug\net6.0-windows\Calculator wpf.genruntimeconfig.cache
+C:\Users\user\source\repos\Calculator wpf\Calculator wpf\obj\Debug\net6.0-windows\ref\Calculator wpf.dll
+C:\Users\user\OneDrive\Desktop\wpgf\Calculator (WPF)\Calculator wpf\bin\Debug\net6.0-windows\Calculator wpf.exe
+C:\Users\user\OneDrive\Desktop\wpgf\Calculator (WPF)\Calculator wpf\bin\Debug\net6.0-windows\Calculator wpf.deps.json
+C:\Users\user\OneDrive\Desktop\wpgf\Calculator (WPF)\Calculator wpf\bin\Debug\net6.0-windows\Calculator wpf.runtimeconfig.json
+C:\Users\user\OneDrive\Desktop\wpgf\Calculator (WPF)\Calculator wpf\bin\Debug\net6.0-windows\Calculator wpf.dll
+C:\Users\user\OneDrive\Desktop\wpgf\Calculator (WPF)\Calculator wpf\bin\Debug\net6.0-windows\Calculator wpf.pdb
+C:\Users\user\OneDrive\Desktop\wpgf\Calculator (WPF)\Calculator wpf\obj\Debug\net6.0-windows\Calculator wpf.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Desktop\wpgf\Calculator (WPF)\Calculator wpf\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\user\OneDrive\Desktop\wpgf\Calculator (WPF)\Calculator wpf\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\user\OneDrive\Desktop\wpgf\Calculator (WPF)\Calculator wpf\obj\Debug\net6.0-windows\Calculator wpf_MarkupCompile.cache
+C:\Users\user\OneDrive\Desktop\wpgf\Calculator (WPF)\Calculator wpf\obj\Debug\net6.0-windows\Calculator wpf_MarkupCompile.lref
+C:\Users\user\OneDrive\Desktop\wpgf\Calculator (WPF)\Calculator wpf\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\user\OneDrive\Desktop\wpgf\Calculator (WPF)\Calculator wpf\obj\Debug\net6.0-windows\Calculator wpf.g.resources
+C:\Users\user\OneDrive\Desktop\wpgf\Calculator (WPF)\Calculator wpf\obj\Debug\net6.0-windows\Calculator wpf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Desktop\wpgf\Calculator (WPF)\Calculator wpf\obj\Debug\net6.0-windows\Calculator wpf.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Desktop\wpgf\Calculator (WPF)\Calculator wpf\obj\Debug\net6.0-windows\Calculator wpf.AssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\wpgf\Calculator (WPF)\Calculator wpf\obj\Debug\net6.0-windows\Calculator wpf.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\wpgf\Calculator (WPF)\Calculator wpf\obj\Debug\net6.0-windows\Calculator wpf.dll
+C:\Users\user\OneDrive\Desktop\wpgf\Calculator (WPF)\Calculator wpf\obj\Debug\net6.0-windows\refint\Calculator wpf.dll
+C:\Users\user\OneDrive\Desktop\wpgf\Calculator (WPF)\Calculator wpf\obj\Debug\net6.0-windows\Calculator wpf.pdb
+C:\Users\user\OneDrive\Desktop\wpgf\Calculator (WPF)\Calculator wpf\obj\Debug\net6.0-windows\Calculator wpf.genruntimeconfig.cache
+C:\Users\user\OneDrive\Desktop\wpgf\Calculator (WPF)\Calculator wpf\obj\Debug\net6.0-windows\ref\Calculator wpf.dll
